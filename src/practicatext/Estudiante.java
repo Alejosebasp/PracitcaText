@@ -26,6 +26,4 @@ public class Estudiante {
         this.fechaDeNacimiento = fechaDeNacimiento;
         this.codigo = codigo;
     }
-    
-    
 }
